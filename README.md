@@ -9,7 +9,7 @@ Machine-learning-A-Review
 * [Classification](#text)
 * [Cluster](#text)
 
-##<a name="text"/>显示文本
+##<a name="title"/>Distribution
 ###普通文本
 这是一段普通的文本
 ####关于换行
