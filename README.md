@@ -11,18 +11,19 @@ Machine-learning-A-Review
 
 ##<a name="distribution"/>Distribution
 ###伯努利分布
-伯努利分布
-
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/Ber.jpg)
-
-###Beta分布
 ###二项分布
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/二项分布.jpg)
+###Beta分布
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/Beta.jpg)
+###多项式分布
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/多项分布.jpg)
 ###狄拉克雷分布
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/di.jpg)
 ###Gamma分布
 ###高斯分布
 ###高斯-Gamma分布
 ###高斯-Wishart分布
-###多项式分布
 ###学生t分布
 ###均匀分布
 直接回车不能换行，<br>
