@@ -10,13 +10,18 @@ Machine-learning-A-Review
 * [Cluster](#text)
 
 ##<a name="distribution"/>Distribution
-###普通文本
+###伯努利分布
 这是一段普通的文本
-###关于换行
-###关于换行
-###关于换行
-###关于换行
-###关于换行
+###Beta分布
+###二项分布
+###狄拉克雷分布
+###Gamma分布
+###高斯分布
+###高斯-Gamma分布
+###高斯-Wishart分布
+###多项式分布
+###学生t分布
+###均匀分布
 直接回车不能换行，<br>
 可以使用\<br>。
 但是使用html标签就丧失了markdown的意义。  
