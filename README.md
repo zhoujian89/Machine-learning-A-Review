@@ -27,7 +27,11 @@ Gamma函数可把很多数学概念从整数集合延拓到实数集合,Beta分�
 
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/di.jpg)
 ###Gamma分布
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/Gamma.jpg)
 ###高斯分布
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/高斯1.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/高斯2.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/高斯3.jpg)
 ###高斯-Gamma分布
 ###高斯-Wishart分布
 ###学生t分布
