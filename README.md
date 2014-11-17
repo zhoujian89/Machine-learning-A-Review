@@ -7,4 +7,6 @@ Machine-learning-A-Review
 * [Classification](#text)
 * [Regression](#text)
 * [Cluster](#text)
+* <a name="line"/>
+##***Bayesian
 
