@@ -25,7 +25,8 @@ Gamma函数可把很多数学概念从整数集合延拓到实数集合,Beta分�
 ###狄拉克雷分布
 狄拉克雷分分布就是多项分布推广成实数域上
 
-![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/di.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/di1.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/di2.jpg)
 ###Gamma分布
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/Gamma.jpg)
 ###高斯分布
