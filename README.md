@@ -34,9 +34,16 @@ Gamma函数可把很多数学概念从整数集合延拓到实数集合,Beta分�
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/高斯2.jpg)
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/高斯3.jpg)
 ###高斯-Gamma分布
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/高斯-Gamma.jpg)
 ###高斯-Wishart分布
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/高斯-Wis.jpg)
 ###学生t分布
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/t1.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/t2.jpg)
 ###均匀分布
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/均匀分布.jpg)
+###Wishart分布
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/Wis.jpg)
 直接回车不能换行，<br>
 可以使用\<br>。
 但是使用html标签就丧失了markdown的意义。  
