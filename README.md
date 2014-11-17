@@ -12,6 +12,9 @@ Machine-learning-A-Review
 ##<a name="distribution"/>Distribution
 ###伯努利分布
 这是一段普通的文本
+
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/1.jpg)
+
 ###Beta分布
 ###二项分布
 ###狄拉克雷分布
