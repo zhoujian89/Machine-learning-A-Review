@@ -66,6 +66,9 @@ Gamma函数可把很多数学概念从整数集合延拓到实数集合,Beta分�
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher7.jpg)
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher8.jpg)
 ###线性判别分析(多类情况)
+例如在三维空间中，有三个类别，学习到的W就是一个投影平面，当样本点投影到该平面时，能很好地把样本分开。
+多类情况中，Sw的计算不变，Sb的计算不同，原因在于多类情况，需要考虑空间中全体样本点的整体均值，并且某
+一类别样本数多，相应的权重也大。
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher9.jpg)
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher10.jpg)
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher11.jpg)
@@ -80,6 +83,10 @@ Gamma函数可把很多数学概念从整数集合延拓到实数集合,Beta分�
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher20.jpg)
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher21.jpg)
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher22.jpg)
+
+总之，不管是多类还是二分类，最终投影平面的确定都是求inv(Sw)*S最大k个特征值对应的特征向量。所求的W
+为这k个特征向量组成的平面。
+
 
 直接回车不能换行，<br>
 可以使用\<br>。
