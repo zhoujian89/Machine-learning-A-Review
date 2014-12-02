@@ -51,6 +51,7 @@ Gamma函数可把很多数学概念从整数集合延拓到实数集合,Beta分�
 
 ##<a name="Classification"/>Classification
 ##<a name="LDA"/>线性判别分析(LDA)
+线性判别分析(LDA)主要思想学习一个变换W把高维数据降到低维，这一维能很好的判断数据属于哪一类。如图所示
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/Ber.jpg)
 
 直接回车不能换行，<br>
