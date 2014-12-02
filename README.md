@@ -56,6 +56,7 @@ Gamma函数可把很多数学概念从整数集合延拓到实数集合,Beta分�
 
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher1.jpg)
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher3.jpg)
+
 直接最大化J(w)，并不一定能找到合适的W。如上图所示，两类样本点均匀分布在两个椭圆里，向量u1-u2
 表示两椭圆中心的连线方向，当投影到横轴 x1 上时能够获得更大的中心点间距J(w),但是由于有重叠,x1 不能分离样本点。投影到纵轴x2上,虽然J(w)较小，但能够分离样本点。因此我们还需要考虑不同类别样本点
 之间的方差，要使得投影后，同一类样本点方差越小。
