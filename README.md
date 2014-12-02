@@ -48,6 +48,11 @@ Gamma函数可把很多数学概念从整数集合延拓到实数集合,Beta分�
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/均匀分布.jpg)
 ###Wishart分布
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/Wis.jpg)
+
+##<a name="Classification"/>Classification
+##<a name="LDA"/>线性判别分析(LDA)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/Ber.jpg)
+
 直接回车不能换行，<br>
 可以使用\<br>。
 但是使用html标签就丧失了markdown的意义。  
