@@ -6,7 +6,11 @@ Machine-learning-A-Review
 * [Distribution](#distribution)
 * [Bayesian](#title)
 * [Regression](#text)
-* [Classification](#text)
+* [Classification](#Classification)
+    * [线性判别分析(LDA)](#LDA)
+    * [朴素贝叶斯(Naive Bayes)](#LDA)
+    * [多行文本](#LDA)
+    * [文字高亮](#LDA)
 * [Cluster](#text)
 
 ##<a name="distribution"/>Distribution
