@@ -65,7 +65,21 @@ Gamma函数可把很多数学概念从整数集合延拓到实数集合,Beta分�
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher6.jpg)
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher7.jpg)
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher8.jpg)
-
+###线性判别分析(多类情况)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher9.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher10.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher11.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher12.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher13.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher14.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher15.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher16.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher17.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher18.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher19.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher20.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher21.jpg)
+![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher22.jpg)
 
 直接回车不能换行，<br>
 可以使用\<br>。
