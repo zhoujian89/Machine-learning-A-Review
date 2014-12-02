@@ -85,7 +85,7 @@ Gamma函数可把很多数学概念从整数集合延拓到实数集合,Beta分�
 ![](https://github.com/zhoujian89/Machine-learning-A-Review/blob/master/Image/fisher22.jpg)
 
 ####总之，不管是多类还是二分类，最终投影平面的确定都是求inv(Sw)*Sb最大k个特征值对应的特征向量。所求的W
-为这k个特征向量组成的投影平面。
+####为这k个特征向量组成的投影平面。
 
 直接回车不能换行，<br>
 可以使用\<br>。
